@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript object notation, json, ajax, asynchronious, requests
-type: resources
-resources: 5
----
+
 
 ## Resources
 
