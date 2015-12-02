@@ -11,3 +11,5 @@
 - [Flickr API](https://www.flickr.com/services/api/)
 - [Spotify API](https://developer.spotify.com/web-api/)
 <a href='https://learn.co/lessons/fe-json-and-ajax-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<a href='https://learn.co/lessons/fe-json-and-ajax-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
